@@ -11,3 +11,5 @@ Interesting ML links
 [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
 
 [keras/examples/lstm_text_generation.py](https://github.com/fchollet/keras/blob/master/examples/lstm_text_generation.py)
+
+[Computer-Generated Text Detection Using Machine Learning: A Systematic Review](https://link.springer.com/chapter/10.1007/978-3-319-41754-7_43)
