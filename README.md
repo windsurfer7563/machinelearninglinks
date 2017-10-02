@@ -17,3 +17,5 @@ Interesting ML links
 [Немного про word2vec: полезная теория](http://nlpx.net/archives/179#more-179)
 
 [http://deeplearning.net/tutorial/lstm.html](http://deeplearning.net/tutorial/lstm.html)
+
+[http://colah.github.io/](http://colah.github.io/)
