@@ -15,3 +15,5 @@ Interesting ML links
 [Computer-Generated Text Detection Using Machine Learning: A Systematic Review](https://link.springer.com/chapter/10.1007/978-3-319-41754-7_43)
 
 [Немного про word2vec: полезная теория](http://nlpx.net/archives/179#more-179)
+
+[http://deeplearning.net/tutorial/lstm.html](http://deeplearning.net/tutorial/lstm.html)
