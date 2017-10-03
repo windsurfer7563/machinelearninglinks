@@ -19,3 +19,5 @@ Interesting ML links
 [http://deeplearning.net/tutorial/lstm.html](http://deeplearning.net/tutorial/lstm.html)
 
 [http://colah.github.io/](http://colah.github.io/)
+
+[https://github.com/sujitpal/nltk-examples/blob/master/src/semantic/short_sentence_similarity.py](https://github.com/sujitpal/nltk-examples/blob/master/src/semantic/short_sentence_similarity.py)
