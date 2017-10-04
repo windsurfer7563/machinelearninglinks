@@ -23,3 +23,5 @@ Interesting ML links
 [https://github.com/sujitpal/nltk-examples/blob/master/src/semantic/short_sentence_similarity.py](https://github.com/sujitpal/nltk-examples/blob/master/src/semantic/short_sentence_similarity.py)
 
 [Sentence Similarity based on Semantic Nets and Corpus Statistics](https://github.com/debjyoti385/QuestionAnswerNLP/blob/master/papers/Sentence%20Similarity%20Based%20on%20Semantic%20Nets%20and%20corpus%20statistics.pdf)
+
+[Пирожки в дистрибутивной семантике](https://habrahabr.ru/post/275913/)
