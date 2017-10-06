@@ -29,3 +29,5 @@ Interesting ML links
 [keras recurent tuturial](https://github.com/Vict0rSch/deep_learning/tree/master/keras/recurrent)
 
 [keras sequence2sequence](https://chunml.github.io/ChunML.github.io/project/Sequence-To-Sequence/)
+
+[keras blog sequence2sequence](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
