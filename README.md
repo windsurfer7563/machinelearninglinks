@@ -26,3 +26,4 @@ Interesting ML links
 
 [Пирожки в дистрибутивной семантике](https://habrahabr.ru/post/275913/), [GIT](https://github.com/drafterleo/pie-poem)
 
+[keras recurent tuturial](https://github.com/Vict0rSch/deep_learning/tree/master/keras/recurrent)
