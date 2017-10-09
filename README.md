@@ -31,3 +31,5 @@ Interesting ML links
 [keras sequence2sequence](https://chunml.github.io/ChunML.github.io/project/Sequence-To-Sequence/)
 
 [keras blog sequence2sequence](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
+
+[Sequence-Semantic-Embedding(Tensorflow)](https://github.com/eBay/Sequence-Semantic-Embedding)
