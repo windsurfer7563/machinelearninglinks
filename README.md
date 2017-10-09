@@ -35,3 +35,5 @@ Interesting ML links
 [Sequence-Semantic-Embedding(Tensorflow)](https://github.com/eBay/Sequence-Semantic-Embedding)
 
 [Deep Learning in NLP (Microsoft)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CIKM14_tutorial_HeGaoDeng.pdf)
+
+[Recurrent Neural Networks tutorial by Denny Britz](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
