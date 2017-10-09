@@ -33,3 +33,5 @@ Interesting ML links
 [keras blog sequence2sequence](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
 
 [Sequence-Semantic-Embedding(Tensorflow)](https://github.com/eBay/Sequence-Semantic-Embedding)
+
+[Deep Learning in NLP (Microsoft)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CIKM14_tutorial_HeGaoDeng.pdf)
