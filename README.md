@@ -39,3 +39,4 @@ Interesting ML links
 [Recurrent Neural Networks tutorial by Denny Britz](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 
 [keras-language-modeling](https://github.com/codekansas/keras-language-modeling)
+[Text sumirizer](https://github.com/llSourcell/How_to_make_a_text_summarizer)
