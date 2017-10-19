@@ -42,3 +42,4 @@ Interesting ML links
 [Text sumirizer](https://github.com/llSourcell/How_to_make_a_text_summarizer)
 
 [HADOOP - лекції](https://www.youtube.com/playlist?list=PLrCZzMib1e9rPxMIgPri9YnOpvyDAL9HD)
+[kafka related blog](https://www.confluent.io/blog/)
