@@ -43,3 +43,5 @@ Interesting ML links
 
 [HADOOP - лекції](https://www.youtube.com/playlist?list=PLrCZzMib1e9rPxMIgPri9YnOpvyDAL9HD)
 [kafka related blog](https://www.confluent.io/blog/)
+
+[Sec2Sec learning with Keras](https://github.com/farizrahman4u/seq2seq)
