@@ -32,6 +32,8 @@ Interesting ML links
 
 [keras blog sequence2sequence](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
 
+[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
 [Sequence-Semantic-Embedding(Tensorflow)](https://github.com/eBay/Sequence-Semantic-Embedding)
 
 [Deep Learning in NLP (Microsoft)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CIKM14_tutorial_HeGaoDeng.pdf)
