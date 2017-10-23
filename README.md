@@ -49,3 +49,5 @@ Interesting ML links
 [Sec2Sec learning with Keras](https://github.com/farizrahman4u/seq2seq)
 
 [apply DataFrame by multiprocessing](https://gist.github.com/yong27/7869662)
+
+[Multiprocessing with Pandas](http://gouthamanbalaraman.com/blog/distributed-processing-pandas.html)
