@@ -47,3 +47,5 @@ Interesting ML links
 [kafka related blog](https://www.confluent.io/blog/)
 
 [Sec2Sec learning with Keras](https://github.com/farizrahman4u/seq2seq)
+
+[apply DataFrame by multiprocessing](https://gist.github.com/yong27/7869662)
