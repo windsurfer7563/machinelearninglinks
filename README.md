@@ -53,3 +53,25 @@ Interesting ML links
 [apply DataFrame by multiprocessing](https://gist.github.com/yong27/7869662)
 
 [Multiprocessing with Pandas](http://gouthamanbalaraman.com/blog/distributed-processing-pandas.html)
+
+#####################################################################################################################
+
+[Using linux terminal](http://help.ubuntu.com/community/UsingTheTerminal)
+
+[short linux guide](tecmint.com/free-online-linux-learning-guide-for-beginners/)
+
+[SQL Course](sqlcourse.com)
+
+[Java logs](loggly.com/ultimate-guide/troubleshooting-with-java-logs)
+
+[Basic math & statistics](mathsisfun.com/data/)
+
+[python tutorials](programiz.com/python-programming)
+
+#####################################################################################################################
+
+
+
+
+
+
